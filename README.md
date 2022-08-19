@@ -12,6 +12,9 @@
   <a href="https://twitter.com/norgelera">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.nuget.org/profiles/kuromukira">
+    <img src="https://img.shields.io/badge/NuGet-blue?style=for-the-badge&logo=nuget&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <div align="center">
